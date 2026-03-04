@@ -1,10 +1,8 @@
 name: "Raven",
 
-age: 18,
+from: "IDK",
 
-from: "French",
-
-Discord: "DEV | Raven#2115",
+Discord: "Dev_Raven",
 
 technologies: {
 
